@@ -1,0 +1,13 @@
+import java.io.*;
+class unary
+{
+public static void main [])
+{
+int a=10;
+system.out.print ln(a);
+system.out.print ln(--a);
+system.out.print ln(a);
+system.out.print ln(a--);
+system.out.print ln(a);
+}
+}
